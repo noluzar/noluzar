@@ -1,7 +1,7 @@
 👩‍💻 Noluthando Ndlovu
 🚀 "Building AI-powered solutions that make life easier."
 👋 About Me
-I’m an Aspiring Software / DevOps Engineer from Johannesburg with a strong passion for full-stack development, AI-powered applications, and DevOps.
+I’m a Software Developer from Johannesburg with a strong passion for full-stack development, AI-powered applications, and DevOps.
 
 🎯 Currently learning AI Agent Development and Advanced DevOps Pipelines
 
@@ -37,6 +37,7 @@ Built using MERN stack with JWT authentication
 Features: Product listing, shopping cart, user authentication, and admin panel
 
 📜 Certifications
+
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
