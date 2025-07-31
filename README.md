@@ -44,7 +44,7 @@ Features: Product listing, shopping cart, user authentication, and admin panel
 🎉 Fun Facts & Hobbies
 🏎️ A passionate Formula One and football fan
 
-📚 Enjoys reading novels in free time
+📚 Enjoys reading novels in free time 
 
 💡 Loves exploring emerging technologies and creative problem-solving
 
@@ -52,5 +52,5 @@ Features: Product listing, shopping cart, user authentication, and admin panel
 📫 Connect With Me
 💼 LinkedIn - https://www.linkedin.com/in/noluthando-ndlovu-737aab18a/
 
-🌐 Portfolio Website (coming soon)
+🌐 Portfolio Website - https://ai-personal-portfolio-ten.vercel.app/
 
