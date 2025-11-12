@@ -1,22 +1,26 @@
 👩‍💻 Noluthando Ndlovu
 🚀 "Building AI-powered solutions that make life easier."
+
 👋 About Me
 I’m a Software Developer from Johannesburg with a strong passion for full-stack development, AI-powered applications, and DevOps.
+Currently expanding my expertise in Java development, with a growing focus on AI Agent integration and intelligent backend systems.
 
-🎯 Currently learning AI Agent Development and Advanced DevOps Pipelines
+🎯 Currently learning
+Java backend development, AI Agent Development and Advanced DevOps Pipelines
 
-💡 Interested in AI accessibility tools and real-world automation projects
+💡 Interested in
+AI accessibility tools and real-world automation projects
 
-🌱 Actively building personal projects to solve everyday problems
+🌱 Actively building
+Personal projects to solve everyday problems
 
 🛠️ Skills
+
 💻 Languages
-JavaScript, TypeScript, Python, HTML, CSS
+Java (Expanding expertise), JavaScript, TypeScript, Python, HTML, CSS
 
 ⚙️ Frameworks & Libraries
-React, Tailwind CSS, Vite, MERN Stack (MongoDB, Express, React, Node.js)
-
-Zustand, JWT Authentication
+Spring Boot, Angular, React, Tailwind CSS, Vite, MERN Stack (MongoDB, Express, React, Node.js), Zustand, JWT Authentication
 
 🗄️ Databases
 MySQL, PostgreSQL, MongoDB
@@ -31,27 +35,23 @@ Azure Blob Storage, GitHub Actions (CI/CD), API integrations
 IBM AI Fairness 360, OpenAI APIs, Google AI Studio
 
 📂 Projects
+
 🛍️ Full-Stack eCommerce Website
 Built using MERN stack with JWT authentication
-
-Features: Product listing, shopping cart, user authentication, and admin panel
+Features: Product listing, shopping cart, user authentication, CRUD operations, and admin panel
 
 📜 Certifications
-
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
-
 ✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
+✅ Java Full Stack Development
 
 🎉 Fun Facts & Hobbies
-🏎️ A passionate Formula One and football fan
-
-📚 Enjoys reading novels in free time 
-
+🏎️ Passionate Formula One and football fan
+📚 Enjoys reading novels in free time
 💡 Loves exploring emerging technologies and creative problem-solving
 
 
 📫 Connect With Me
 💼 LinkedIn - https://www.linkedin.com/in/noluthando-ndlovu-737aab18a/
-
 🌐 Portfolio Website - https://ai-personal-portfolio-ten.vercel.app/
 
