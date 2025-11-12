@@ -5,14 +5,18 @@
 I’m a Software Developer from Johannesburg with a strong passion for full-stack development, AI-powered applications, and DevOps.
 Currently expanding my expertise in Java development, with a growing focus on AI Agent integration and intelligent backend systems.
 
+
 🎯 Currently learning
 Java backend development, AI Agent Development and Advanced DevOps Pipelines
+
 
 💡 Interested in
 AI accessibility tools and real-world automation projects
 
+
 🌱 Actively building
 Personal projects to solve everyday problems
+
 
 🛠️ Skills
 
@@ -34,11 +38,17 @@ Azure Blob Storage, GitHub Actions (CI/CD), API integrations
 🤖 AI/ML
 IBM AI Fairness 360, OpenAI APIs, Google AI Studio
 
+
 📂 Projects
 
 🛍️ Full-Stack eCommerce Website
 Built using MERN stack with JWT authentication
 Features: Product listing, shopping cart, user authentication, CRUD operations, and admin panel
+
+🛍️ Full-Stack NFT Marketplace
+Built using Java (Spring Boot) with JWT authentication
+Features: user authentication, CRUD operations
+
 
 📜 Certifications
 ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
